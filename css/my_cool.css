@@ -1,0 +1,44 @@
+/*test*/
+
+.a {
+    background-color: red
+}
+
+.b {
+    background-color: green
+}
+
+.c {
+    background-color: yellow
+}
+
+.d {
+    background-color: blue
+}
+
+.e {
+    background-color: blueviolet
+}
+
+.g {
+    background-color: palevioletred
+}
+
+.f {
+    background-color: royalblue
+}
+
+.w {
+    height: 50px;
+}
+
+
+/*prod*/
+
+.logo {
+    width: 130px;
+}
+
+.pic{
+    margin-bottom: 10px;
+}
